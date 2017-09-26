@@ -1,0 +1,54 @@
+
+body{
+	background-image: url('../images/beef.jpg');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+	margin: 3cm 7cm 2cm;
+	width: 430px;
+    height: 100px;
+	background-color: #39c680;
+	opacity: 0.7;
+	color: white;
+	padding-top: 2cm;
+	padding-left: 3cm;
+	padding-right: 4cm;
+	padding-bottom: 3cm;
+	
+}
+h1 {
+    font: 40px Verdana, sans-serif;
+}
+p {
+	font: 18px Calibri, serif;
+}
+
+figure{
+	float:right;
+	margin: -9.7cm 7cm 1cm 1cm ;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1cm 7cm 2cm ;
+    padding: 1px;
+    background-color: #39c680;
+	
+}
+
+li {
+    float: left;
+}
+
+li  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1.3cm 2cm 1cm;
+}
+
+li a:hover {
+    background-color: #111;
+}

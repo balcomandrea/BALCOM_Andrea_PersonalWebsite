@@ -36,7 +36,7 @@ p{
 	font-family: Maiandra GD;
 	font-size: 20px
 }
-figure{
+figure.image{
 	float:right;
 	margin: -4cm 10cm 1cm 1cm ;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
@@ -48,12 +48,10 @@ figure:hover {
 figure.arrow{
 	float:right;
 	margin: -4cm 10cm 1cm 1cm ;
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 figure.arrow1{
 	float:left;
-	margin: -4cm 10cm 1cm 1cm ;
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+	margin: -4cm 10cm 1cm 0.7cm ;
 }
 .button{
 	display: block;

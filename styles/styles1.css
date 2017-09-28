@@ -5,3 +5,126 @@ body{
     background-size: cover;
 
 }
+p.head{
+	margin: 2cm 5.6cm 2cm;
+	font-size: 100px;
+	color:white;
+	text-shadow: 2px 2px 10px #003333;
+}
+
+div{
+	margin: 2cm 5.6cm 2cm;
+	width: 500px;
+	height:760px;
+	background-color: #1d6351;
+	opacity: 0.8;
+	padding: 1px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 40px;
+	padding-bottom: 30px;
+}
+div.inner{
+	margin:20px 1px 30px;
+	width: 440px;
+	height: 700px;
+	background-color: #00b386;
+}
+
+p{
+	color: white;
+	font-family: Maiandra GD;
+	font-size: 20px
+}
+figure{
+	float:right;
+	margin: -4cm 10cm 1cm 1cm ;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+figure:hover {
+	opacity: 0.9;
+}
+.button{
+	display: block;
+	height: 60px;
+	width: 100px;
+	border-radius: 100%;
+	background-color: #1d6351;
+    color: white;
+	text-align: center;
+    padding: 50px 20px 20px 20px;
+	text-decoration: none;
+    font-size: 23px;
+	/*display: inline-block;*/
+	font-family: Calibri;
+	float: right;
+	margin: -18cm 11cm 1cm 1cm;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+.button1{
+	display: block;
+	height: 60px;
+	width: 100px;
+	border-radius: 100%;
+	background-color: #1d6351;
+    color: white;
+	text-align: center;
+    padding: 50px 20px 20px 20px;
+	text-decoration: none;
+    font-size: 23px;
+	/*display: inline-block;*/
+	font-family: Calibri;
+	float: right;
+	margin: -14cm 11cm 1cm 1cm;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+.button2{
+	display: block;
+	height: 60px;
+	width: 100px;
+	border-radius: 100%;
+	background-color: #1d6351;
+    color: white;
+	text-align: center;
+    padding: 50px 20px 20px 20px;
+	text-decoration: none;
+    font-size: 23px;
+	/*display: inline-block;*/
+	font-family: Calibri;
+	float: right;
+	margin: -10cm 11cm 1cm 1cm;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+.button3{
+	display: block;
+	height: 60px;
+	width: 100px;
+	border-radius: 100%;
+	background-color: #1d6351;
+    color: white;
+	text-align: center;
+    padding: 50px 20px 20px 20px;
+	text-decoration: none;
+    font-size: 23px;
+	/*display: inline-block;*/
+	font-family: Calibri;
+	float: right;
+	margin: -6cm 11cm 1cm 1cm;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+.button:hover {
+    background-color: #00b386;
+	transform: scale(1.2);
+}
+.button1:hover {
+    background-color: #00b386;
+	transform: scale(1.2);
+}
+.button2:hover {
+    background-color: #00b386;
+	transform: scale(1.2);
+}
+.button3:hover {
+    background-color: #00b386;
+	transform: scale(1.2);
+}

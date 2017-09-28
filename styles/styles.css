@@ -69,8 +69,10 @@ figure:hover {
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 .button:hover {
-    background-color: #6199d1;
+    background-color: #00b386;
+	transform: scale(1.2);
 }
 .button1:hover {
-    background-color: #6199d1;
+    background-color: #00b386;
+	transform: scale(1.2);
 }

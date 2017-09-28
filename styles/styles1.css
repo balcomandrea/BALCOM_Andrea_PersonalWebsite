@@ -1,7 +1,6 @@
 body{
 	background-image: url('../images/beef.jpg');
 	background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
 
 }
@@ -25,6 +24,7 @@ div{
 	padding-bottom: 30px;
 }
 div.inner{
+	opacity: 1;
 	margin:20px 1px 30px;
 	width: 440px;
 	height: 700px;
@@ -55,7 +55,6 @@ figure:hover {
     padding: 50px 20px 20px 20px;
 	text-decoration: none;
     font-size: 23px;
-	/*display: inline-block;*/
 	font-family: Calibri;
 	float: right;
 	margin: -18cm 11cm 1cm 1cm;
@@ -72,7 +71,6 @@ figure:hover {
     padding: 50px 20px 20px 20px;
 	text-decoration: none;
     font-size: 23px;
-	/*display: inline-block;*/
 	font-family: Calibri;
 	float: right;
 	margin: -14cm 11cm 1cm 1cm;
@@ -89,7 +87,6 @@ figure:hover {
     padding: 50px 20px 20px 20px;
 	text-decoration: none;
     font-size: 23px;
-	/*display: inline-block;*/
 	font-family: Calibri;
 	float: right;
 	margin: -10cm 11cm 1cm 1cm;
@@ -106,7 +103,6 @@ figure:hover {
     padding: 50px 20px 20px 20px;
 	text-decoration: none;
     font-size: 23px;
-	/*display: inline-block;*/
 	font-family: Calibri;
 	float: right;
 	margin: -6cm 11cm 1cm 1cm;

@@ -33,6 +33,7 @@ figure{
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 figure:hover {
+	transition: .3s ease;
 	opacity: 0.9;
 }
 
@@ -71,8 +72,10 @@ figure:hover {
 .button:hover {
     background-color: #00b386;
 	transform: scale(1.2);
+	transition: .3s ease;
 }
 .button1:hover {
     background-color: #00b386;
 	transform: scale(1.2);
+	transition: .3s ease;
 }

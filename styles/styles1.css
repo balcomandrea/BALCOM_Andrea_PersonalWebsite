@@ -44,6 +44,17 @@ figure{
 figure:hover {
 	opacity: 0.9;
 }
+
+figure.arrow{
+	float:right;
+	margin: -4cm 10cm 1cm 1cm ;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+figure.arrow1{
+	float:left;
+	margin: -4cm 10cm 1cm 1cm ;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
 .button{
 	display: block;
 	height: 60px;
@@ -124,3 +135,4 @@ figure:hover {
     background-color: #00b386;
 	transform: scale(1.2);
 }
+

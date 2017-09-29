@@ -12,3 +12,12 @@ p.mod{
 	font-family: Maiandra GD;
 	font-size: 30px;
 }
+figure:hover.educ{
+	transform: scale(1.1);
+}
+figure:hover.educ1{
+	transform: scale(1.1);
+}
+figure:hover.educ2{
+	transform: scale(1.1);
+}

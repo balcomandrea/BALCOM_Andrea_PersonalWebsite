@@ -1,5 +1,5 @@
 figure.educ{
-	margin: 0.3cm 0cm 1cm 0.4cm ;
+	margin: 0.5cm 0cm 1cm 0.3cm ;
 }
 figure.educ1{
 	margin: 1.8cm 0cm 1cm 0.7cm;
@@ -14,10 +14,19 @@ p.mod{
 }
 figure:hover.educ{
 	transform: scale(1.1);
+	transition: .2s ease;
 }
 figure:hover.educ1{
 	transform: scale(1.1);
+	transition: .2s ease;
 }
 figure:hover.educ2{
 	transform: scale(1.1);
+	transition: .2s ease;
+}
+p.description{
+	float: right;
+	color: white;
+	font-family: Maiandra GD;
+	font-size: 17px;
 }

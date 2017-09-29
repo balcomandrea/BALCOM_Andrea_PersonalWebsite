@@ -1,3 +1,14 @@
 figure.educ{
-	
+	margin: 0.3cm 0cm 1cm 0.4cm ;
+}
+figure.educ1{
+	margin: 1.8cm 0cm 1cm 0.7cm;
+}
+figure.educ2{
+	margin: 2.0cm 0cm 1cm 0.7cm;
+}
+p.mod{
+	color: white;
+	font-family: Maiandra GD;
+	font-size: 30px;
 }

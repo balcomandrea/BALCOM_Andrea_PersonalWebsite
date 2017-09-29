@@ -5,3 +5,24 @@ p.contact_title{
 	font-family: Maiandra GD;
 	font-size: 88px;
 }
+figure.mobile{
+	margin: 1.8cm 0cm 1cm 1.5cm;
+}
+figure.mail{
+	margin: 3cm 0cm 1cm 1.5cm;
+}
+p.description_2{
+	float: center;
+	color: white;
+	font-family: Maiandra GD;
+	font-size: 25px;
+	padding-left: 10px;
+}
+figure:hover.mobile{
+	transform: scale(1.1);
+	transition: .2s ease;
+}
+figure:hover.mai1{
+	transform: scale(1.1);
+	transition: .2s ease;
+}

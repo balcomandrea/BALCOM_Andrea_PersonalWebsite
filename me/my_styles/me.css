@@ -5,16 +5,22 @@ body{
     background-size: cover;
 
 }
-div.description{
-	/* margin: 3cm 3.6cm 2cm; */
-	width: 620px;
-    height: 500px;
-	background-color: #fba651;
+div.holder{
+	position: absolute;
+	left: 50px;
+	top:170px;
+	width: 770px;
+    height: 550px;
+	background-color: #eda65e;
 	opacity: 0.8;
-	color: white;
-	padding-top: 2cm;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+div.description{
+	font-family: Maiandra GD Regular;
+	font-size: 35px;
+	color: #661a00;
+	padding-top: 0.3cm;
 	padding-left: 1cm;
 	padding-right: 4cm;
 	padding-bottom: 3cm;
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }

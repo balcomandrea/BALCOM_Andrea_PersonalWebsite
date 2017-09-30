@@ -1,20 +1,27 @@
-.container{
-	width:355px;
+.container {
+  position: relative;
+  width: 355px;
 }
 
-.image{
-	/*display: block;*/
-	width: 355px;
-	height: 489px;
+.image {
+  display: block;
+  width: 355px;
+  height: auto;
 }
-.overlay{
-	height: 355px;
-	width: 489px;
-	transition: .3s ease;
-	/*background-color: #80dfff;*/
-	overflow: hidden;
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+ /* right: 0;*/
+  background-color: #0099cc;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
 }
-.container:hover .overlay{
-	opacity: 0.8;
-	overflow: visible;
+
+.container:hover .overlay {
+  width: 355px;
+  left: 0;
 }

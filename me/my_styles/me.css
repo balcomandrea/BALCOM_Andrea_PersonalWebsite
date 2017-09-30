@@ -53,6 +53,6 @@ figure.paw{
 }
 
 .container:hover .overlay {
-  width: 100px;
+  width: 500px;
   left: 0;
 }

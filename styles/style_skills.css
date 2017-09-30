@@ -6,6 +6,16 @@ p.skills_title{
 	font-size: 88px;
 }
 figure.arrow3{
-	float:left;
-	margin: 15.7cm 10cm 1cm 0cm ;
+	float:right;
+	margin: -4cm 0.2cm 1cm 11cm ;
+}
+figure.multi{
+	margin: 1cm 0cm 1cm 0.1cm;
+}
+p.multi_description{
+	float: right;
+	display: inline-block;
+	padding-top: 20px;
+	padding-right: 20px;
+	font-size: 34px;
 }

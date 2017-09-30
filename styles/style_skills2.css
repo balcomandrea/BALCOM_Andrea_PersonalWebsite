@@ -1,0 +1,9 @@
+p.prog_description{
+	float: right;
+	display: inline-block;
+	padding-top: 20px;
+	font-size: 34px;
+}
+figure.prog{
+	margin: 1cm 0cm 1cm 0.1cm;
+}

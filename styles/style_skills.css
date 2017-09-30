@@ -19,3 +19,7 @@ p.multi_description{
 	padding-right: 20px;
 	font-size: 34px;
 }
+figure:hover.multi{
+	transform: scale(1.1);
+	transition: .2s ease;
+}

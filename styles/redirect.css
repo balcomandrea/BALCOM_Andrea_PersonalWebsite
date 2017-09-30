@@ -1,0 +1,20 @@
+.container{
+	width:355px;
+}
+
+.image{
+	/*display: block;*/
+	width: 355px;
+	height: 489px;
+}
+.overlay{
+	height: 355px;
+	width: 489px;
+	transition: .3s ease;
+	/*background-color: #80dfff;*/
+	overflow: hidden;
+}
+.container:hover .overlay{
+	opacity: 0.8;
+	overflow: visible;
+}

@@ -24,3 +24,35 @@ div.description{
 	padding-right: 4cm;
 	padding-bottom: 3cm;
 }
+figure.paw{
+	float:right;
+	margin: 11cm 15.6cm 1cm 11cm ;
+}
+.container {
+  position: relative;
+  width: 100px;
+}
+
+.image {
+  display: block;
+  width: 100px;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: none;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+  border-radius: 5%;
+}
+
+.container:hover .overlay {
+  width: 100px;
+  left: 0;
+}

@@ -35,7 +35,7 @@ div.inner{
 p{
 	color: white;
 	font-family: Maiandra GD;
-	font-size: 25px;
+	font-size: 30px;
 }
 figure.image{
 	float:right;
@@ -48,7 +48,7 @@ figure:hover {
 
 figure.arrow{
 	float:right;
-	margin: -4cm 10cm 1cm 1cm ;
+	margin: -4cm 0.2cm 1cm 11cm ;
 }
 figure.arrow1{
 	float:left;

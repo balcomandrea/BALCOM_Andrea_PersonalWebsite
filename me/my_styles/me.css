@@ -1,0 +1,20 @@
+body{
+	background-image: url('../my_images/my_bg.png');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div.description{
+	/* margin: 3cm 3.6cm 2cm; */
+	width: 620px;
+    height: 500px;
+	background-color: #fba651;
+	opacity: 0.8;
+	color: white;
+	padding-top: 2cm;
+	padding-left: 1cm;
+	padding-right: 4cm;
+	padding-bottom: 3cm;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}

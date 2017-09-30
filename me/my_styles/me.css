@@ -26,7 +26,11 @@ div.description{
 }
 figure.paw{
 	float:right;
-	margin: 11cm 15.6cm 1cm 11cm ;
+	margin: 11cm 18.8cm 1cm 11cm ;
+}
+figure.home{
+	float: right;
+	margin: -3.3cm -31.8cm 1cm 1cm;
 }
 .container {
   position: relative;
@@ -48,7 +52,7 @@ figure.paw{
   overflow: hidden;
   width: 0;
   height: 100%;
-  transition: .5s ease;
+  transition: .8s ease;
   border-radius: 5%;
 }
 

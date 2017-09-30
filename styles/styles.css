@@ -42,6 +42,7 @@ p {
 figure{
 	float:right;
 	margin:-9.7cm 3cm 1cm;
+	border-radius: 5%;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 figure:hover {

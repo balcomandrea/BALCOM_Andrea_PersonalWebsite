@@ -18,7 +18,7 @@ div.holder{
 div.description{
 	font-family: Maiandra GD Regular;
 	font-size: 35px;
-	color: #661a00;
+	color: #69320e;
 	padding-top: 0.3cm;
 	padding-left: 1cm;
 	padding-right: 4cm;
@@ -59,4 +59,7 @@ figure.home{
 .container:hover .overlay {
   width: 500px;
   left: 0;
+}
+p.sub{
+	font-size: 15px;
 }

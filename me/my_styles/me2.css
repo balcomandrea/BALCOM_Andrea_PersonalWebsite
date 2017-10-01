@@ -26,7 +26,7 @@ div.holder2{
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 figure.content{
-	margin: 2cm;
+	margin: 1.8cm;
 }
 .container {
   position: relative;
@@ -61,7 +61,8 @@ figure.content{
 }
 .text{
 	color: black;
-	font-size: 20px;
+	font-family: Maiandra GD Regular;
+	font-size: 15px;
 	overflow: hidden;
 	top: 50%;
 	right: 50%;

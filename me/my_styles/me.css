@@ -22,7 +22,7 @@ div.description{
 	padding-top: 0.3cm;
 	padding-left: 1cm;
 	padding-right: 4cm;
-	padding-bottom: 3cm;
+	padding-bottom: 0.3cm;
 }
 figure.paw{
 	float:right;
@@ -61,5 +61,5 @@ figure.home{
   left: 0;
 }
 p.sub{
-	font-size: 18px;
+	font-size: 13px;
 }

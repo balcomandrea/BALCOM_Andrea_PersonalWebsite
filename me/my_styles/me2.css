@@ -1,0 +1,19 @@
+div.holder2{
+	position: absolute;
+	left: 50px;
+	top:170px;
+	width: 1000px;
+    height: 550px;
+	background-color: #eda65e;
+	opacity: 0.8;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+div.description{
+	font-family: Maiandra GD Regular;
+	font-size: 35px;
+	color: #69320e;
+	padding-top: 0.3cm;
+	padding-left: 1cm;
+	padding-right: 4cm;
+	padding-bottom: 0.3cm;
+}

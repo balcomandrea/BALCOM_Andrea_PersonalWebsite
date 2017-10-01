@@ -1,3 +1,20 @@
+body{
+	background-image: url('../my_images/my_bg.png');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div.holder{
+	position: absolute;
+	left: 50px;
+	top:170px;
+	width: 770px;
+    height: 550px;
+	background-color: #eda65e;
+	opacity: 0.8;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
 div.holder2{
 	position: absolute;
 	left: 50px;
@@ -8,23 +25,19 @@ div.holder2{
 	opacity: 0.8;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
-div.description{
-	font-family: Maiandra GD Regular;
-	font-size: 35px;
-	color: #69320e;
-	padding-top: 0.3cm;
-	padding-left: 1cm;
-	padding-right: 4cm;
-	padding-bottom: 0.3cm;
+figure.content{
+	margin: 2cm;
+	display: inline-block;
 }
-.container2 {
+.container {
   position: relative;
-  width: 100px;
+  width: 220px;
 }
 
-.image2 {
+.image {
   display: block;
-  width: 100px;
+  border-radius: 5%;
+  width: 220px;
   height: auto;
 }
 
@@ -33,7 +46,8 @@ div.description{
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: none;
+  background-color: white;
+  opacity: 0.7;
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -42,6 +56,13 @@ div.description{
 }
 
 .container:hover .overlay {
-  width: 500px;
+  width: 220px;
   left: 0;
+}
+.text{
+	color: black;
+	font-size: 20px;
+	overflow: hidden;
+	top: 50%;
+	right: 50%;
 }

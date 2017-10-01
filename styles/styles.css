@@ -46,7 +46,7 @@ figure{
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 figure:hover {
-	transition: .3s ease;
+	transition: .8s ease;
 	opacity: 0.9;
 }
 

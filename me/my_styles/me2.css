@@ -29,6 +29,14 @@ figure.home{
 	float: left;
 	margin: -17.9cm 1cm 10cm 36cm;
 }
+figure.forth{
+	float: right;
+	margin: 12.5cm 2cm 1cm 1cm;
+}
+figure.back{
+	float: left;
+	margin: 12.5cm 1cm 1cm 2cm;
+}
 figure.content{
 	margin: 1.8cm;
 }
@@ -50,7 +58,7 @@ figure.content{
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: white;
+  background-color: #ffe0b3;
   opacity: 0.7;
   overflow: hidden;
   width: 0;

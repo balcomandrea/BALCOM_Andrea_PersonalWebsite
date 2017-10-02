@@ -5,16 +5,7 @@ body{
     background-size: cover;
 
 }
-div.holder{
-	position: absolute;
-	left: 50px;
-	top:170px;
-	width: 770px;
-    height: 550px;
-	background-color: #eda65e;
-	opacity: 0.8;
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
-}
+
 div.holder2{
 	position: absolute;
 	left: 50px;
@@ -22,7 +13,6 @@ div.holder2{
 	width: 1400px;
     height: 550px;
 	background-color: #eda65e;
-	opacity: 0.8;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
 }
 figure.home{
@@ -31,14 +21,14 @@ figure.home{
 }
 figure.forth{
 	float: right;
-	margin: 12.5cm 2cm 1cm 1cm;
+	margin: 0cm 2cm 1cm 1cm;
 }
 figure.back{
 	float: left;
-	margin: 12.5cm 1cm 1cm 2cm;
+	margin: 0cm 1cm 1cm 2cm;
 }
 figure.content{
-	margin: 1.8cm;
+	margin: 20px 20px 20px 20px;
 }
 .container {
   position: relative;

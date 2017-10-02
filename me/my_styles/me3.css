@@ -1,0 +1,42 @@
+body{
+	background-image: url('../my_images/my_bg.png');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+div.holder3{
+	position: absolute;
+	left: 50px;
+	top:170px;
+	width: 550px;
+    height: 550px;
+	opacity: 0.8;
+	background-color: #eda65e;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+figure.home{
+	float: left;
+	margin: -3cm 1cm 1cm 37.4cm;
+}
+div.description{
+	font-family: Maiandra GD Regular;
+	font-size: 23px;
+	color: #69320e;
+	padding-top: 0.3cm;
+	padding-left: 1cm;
+	padding-right: 4cm;
+	padding-bottom: 0.3cm;
+}
+div.holder4{
+	margin: 0cm 1cm 1cm 15cm;
+	position: absolute;
+	left: 50px;
+	top:170px;
+	width: 800px;
+    height: 550px;
+	opacity: 0.8;
+	background-color: #eda65e;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}

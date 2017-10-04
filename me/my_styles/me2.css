@@ -21,11 +21,11 @@ figure.home{
 }
 figure.forth{
 	float: right;
-	margin: 0cm 2cm 1cm 1cm;
+	margin: 0cm 1cm 1cm 1cm;
 }
 figure.back{
 	float: left;
-	margin: 0cm 1cm 1cm 2cm;
+	margin: 0cm 1cm 1cm 1cm;
 }
 figure.content{
 	margin: 20px 20px 20px 20px;

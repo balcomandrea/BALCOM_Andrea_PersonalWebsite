@@ -20,9 +20,13 @@ figure.home{
 	float: left;
 	margin: -3cm 1cm 1cm 37.4cm;
 }
+figure.back{
+	float: left;
+	margin: -0.5cm 1cm 1cm -1cm;
+}
 div.description{
 	font-family: Maiandra GD Regular;
-	font-size: 23px;
+	font-size: 22px;
 	color: #69320e;
 	padding-top: 0.3cm;
 	padding-left: 1cm;
@@ -36,7 +40,18 @@ div.holder4{
 	top:170px;
 	width: 800px;
     height: 550px;
-	opacity: 0.8;
 	background-color: #eda65e;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.17);
+}
+figure.gallery{
+	float: left;
+	opacity: none;
+	margin: 0cm 1.2cm 1cm 1cm;
+	display: inline-block;
+}
+p.title{
+	font-size: 15px;
+	font-family: Maiandra GD Regular;
+	padding-left: 1cm;
+	color: #69320e;
 }
